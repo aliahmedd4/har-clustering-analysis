@@ -124,3 +124,4 @@ har-clustering-analysis/
 | Ali Sherif | Lead analysis, clustering implementation |
 | Ahmed Rashad | Visualisation, anomaly detection |
 | Asser Ehab | Preprocessing, comparative evaluation |
+| Ali Ahmed | Data analysis, contributions |
