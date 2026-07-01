@@ -1,0 +1,29 @@
+# Dataset (too large for version control)
+human_activity_master.csv
+*.csv
+*.zip
+
+# Notebook generation helper (internal build script)
+build_notebook.py
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+*.pyc
+
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env/
+
+# Credentials & secrets
+.env
+*.env
+secrets.*
+
+# Build / dist artifacts
+build/
+dist/
+*.egg-info/
